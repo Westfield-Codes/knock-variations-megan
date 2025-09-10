@@ -1,7 +1,12 @@
+/*Stored Jokes
+ * "Wooden shoe". "Wooden shoe like to know"
+ * "Boo", "Why are you crying?"
+ * "Atch", "Bless you"
+ */
 
 /* Global variables */
 var who = "Boo";
-var joke = "Why are you crying";
+var joke = "Why are you crying?";
 var expected = who + " who?";
 
 /* Simple version */
